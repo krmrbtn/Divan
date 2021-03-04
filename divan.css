@@ -1,6 +1,14 @@
 *{
   font-size: 30px
 }
+div>h1{
+  color:#F4B400;;
+  text-align: center;
+  text-decoration: underline;
+}
+td>img{
+  border-radius: 10px;
+}
 
 
 
@@ -35,9 +43,6 @@
   font-size: 35px
 }
 
-.divla {
-  margin:auto auto;
-}
 
 
 /*header*/
